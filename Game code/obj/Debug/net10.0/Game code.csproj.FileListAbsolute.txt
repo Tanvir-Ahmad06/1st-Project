@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Game code\obj\Debug\net10.0\Game code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Game code\obj\Debug\net10.0\Game code.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Game code\obj\Debug\net10.0\Game code.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Game code\obj\Debug\net10.0\Game code.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Game code\bin\Debug\net10.0\Game code.exe
+C:\Users\ASUS\Desktop\Game code\bin\Debug\net10.0\Game code.deps.json
+C:\Users\ASUS\Desktop\Game code\bin\Debug\net10.0\Game code.runtimeconfig.json
+C:\Users\ASUS\Desktop\Game code\bin\Debug\net10.0\Game code.dll
+C:\Users\ASUS\Desktop\Game code\bin\Debug\net10.0\Game code.pdb
+C:\Users\ASUS\Desktop\Game code\obj\Debug\net10.0\Game code.dll
+C:\Users\ASUS\Desktop\Game code\obj\Debug\net10.0\refint\Game code.dll
+C:\Users\ASUS\Desktop\Game code\obj\Debug\net10.0\Game code.pdb
+C:\Users\ASUS\Desktop\Game code\obj\Debug\net10.0\Game code.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Game code\obj\Debug\net10.0\ref\Game code.dll
